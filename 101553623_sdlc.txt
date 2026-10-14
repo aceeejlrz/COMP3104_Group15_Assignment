@@ -20,3 +20,10 @@ and missed errors and bugs found in later stages.
 DevOps matter because it fixes these problems by making the SDLC
 collaborative, automated, and continuous which results in faster
 delivery, higher quality, and more reliable software
+
+[How DevOps help at each stage of SDLC]
+1. Planning: Dev and Ops plan together; work is split into small, frequent releases using Agile practices
+3. Development: Version control (Git/GitHub), branching and pull requests keep collaboration organized and code reviewed
+4. Build Testing: Continuous integration (CI) automatically builds and tests every commit, catching bugs early
+5. Deployment: Continuous deployment (CD) automates releases, making them fast, repeatable and low-risk
+6. Operations & Maintenance: Monitoring and feedback loops detect problems quickly and feed improvements back into planning
