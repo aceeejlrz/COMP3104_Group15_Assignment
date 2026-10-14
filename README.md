@@ -19,3 +19,10 @@ The project utilizes GitHub Actions for continuous integration. The workflow is 
 
 ## Branching Strategy
 Each member has their own branch named `STUDENTID-Name`. All changes are merged into the `main` branch via Pull Requests.
+## Repository Structure
+Each member adds three files to the repository root:
+- `STUDENTID_gb.txt` – information about George Brown
+- `STUDENTID_devops.txt` – information about the DevOps course
+- `STUDENTID_sdlc.txt` – importance of DevOps in the SDLC
+
+Pull Requests follow the template in `.github/pull_request_template.md`.

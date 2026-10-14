@@ -1,0 +1,28 @@
+101496484 George Brown Polytechnic
+
+George Brown Polytechnic (formerly George Brown College)
+========================================================
+
+About the School:
+George Brown is a public polytechnic in downtown Toronto. It opened in
+1967 and takes its name from George Brown, a Father of Confederation
+and the founder of The Globe newspaper. The school is known for linking
+classroom learning directly to industry needs.
+
+Locations:
+Classes run across the St. James, Casa Loma and Waterfront campuses.
+Each campus has its own focus, for example business and the arts at
+St. James, technology and construction at Casa Loma, and health
+sciences at Waterfront.
+
+My Program:
+I am in the Computer Programming and Analysis program (T197) in the
+School of Computer Technology. The program covers software design,
+web and mobile development, databases, cloud and DevOps practices,
+and ends with a team capstone project.
+
+Why George Brown:
+I wanted a program that puts real projects in front of me early. The
+courses are built around labs, group work and tools that companies
+actually use, which lets me apply what I learn to my own software
+projects right away.
