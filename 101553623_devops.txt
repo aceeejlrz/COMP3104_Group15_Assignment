@@ -1,0 +1,7 @@
+Comp3104 - DevOps
+-----------------
+
+[Definition:]
+COMP 3104 DevOps introduces the practices and tools connecting software development with IT operations, hence
+the name "DevOps" or Development Operations. The focus of this course is to build, test and release software 
+faster and more reliably through collaboration and automation.
