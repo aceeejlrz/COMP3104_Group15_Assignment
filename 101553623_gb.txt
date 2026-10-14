@@ -7,3 +7,8 @@ post-secondary institution located in downtown Toronto, Ontario, Canada. It was
 founded in 1967 as part of Ontario's new system of colleges of applied arts and
 technology. The institution "George Brown" was named after a 19th-century Scottish-Canadian
 journalist, politician and father of Confederation who founded the globe newspaper.
+
+[Campuses:]
+George Brown Polytechnic has three main campuses. There is St.James located downtown (200 King Street East), 
+Casa Loma located midtown (160 Kendal Avenue), 
+and Waterfront located on Toronto's harbour (51 Dockside Drive and 3 Lower Jarvis Street).
