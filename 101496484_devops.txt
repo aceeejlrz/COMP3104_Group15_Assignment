@@ -1,0 +1,10 @@
+101496484 DevOps (Own Definition)
+
+COMP 3104 - DevOps
+==================
+
+My Definition of DevOps:
+DevOps is a way of working where the people who write software and the
+people who run it share one goal: shipping working changes to users
+quickly and safely. It mixes culture (shared ownership, fast feedback)
+with tooling (version control, automated pipelines, monitoring).
