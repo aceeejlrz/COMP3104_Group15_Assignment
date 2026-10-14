@@ -1,0 +1,13 @@
+Software Development Lifecycles (SDLC)
+--------------------------------------
+
+[Definition:]
+Software development lifecycles (SDLC) is the process teams follow to produce software.
+
+[SDLC Stages:]
+1. Planning: define goals, scope, requirements and resources
+2. Design: decide the architecture, interfaces and technology
+3. Development: write the code
+4. Testing: find and fix defects
+5. Deployment: release the software to users
+6. Maintenance: monitor, fix and update it over time
