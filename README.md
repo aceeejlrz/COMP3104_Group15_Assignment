@@ -4,7 +4,7 @@
 - **Leader:** jezrel Dela Cruz (10159617) - [GitHub](https://github.com/aceeejlrz/COMP3104_Group15_Assignment)
 - **Member 2:** Jane Doe (1023456) - [GitHub](https://github.com/janedoe)
 - **Member 3:** John Smith (1027890) - [GitHub](https://github.com/johnsmith)
-- **Member 4:** _____ ___ (1231231231) - [GitHUB](qwewqeq)
+- **Member 4:** Cem Dudu (101496484) - [GitHub](https://github.com/Cem-Gbc)
 
 ## Project Description
 This repository hosts the group assignment for COMP3104 DevOps course, focusing on collaborative Git workflows, branching strategies, and CI/CD integration.
