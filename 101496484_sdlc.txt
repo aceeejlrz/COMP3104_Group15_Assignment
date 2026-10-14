@@ -1,0 +1,9 @@
+101496484 Software Development Lifecycle
+
+Why DevOps Matters in the SDLC
+==============================
+
+The SDLC in Short:
+Software moves through planning, design, development, testing,
+deployment and maintenance. Without DevOps, each stage is often owned
+by a different team and work is handed over in large batches.
