@@ -1,7 +1,7 @@
 # COMP3104_Group15_Assignment
 
 ## Group Members
-- **Leader:** jezrel Dela Cruz (10159617) - [GitHub](https://github.com/aceeejlrz/COMP3104_Group15_Assignment)
+- **Leader:** jezrel Dela Cruz (10159617) - [GitHub](https://github.com/aceeejlrz)
 - **Member 2:** Jared-Ian Duldulao (101553623) - [GitHub](https://github.com/JDTeddy)
 - **Member 3:** John Smith (1027890) - [GitHub](https://github.com/johnsmith)
 - **Member 4:** Cem Dudu (101496484) - [GitHub](https://github.com/Cem-Gbc)
