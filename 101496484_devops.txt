@@ -16,3 +16,15 @@ What the Course Covers:
 - Writing GitHub Actions workflows
 - Containerization with Docker
 - Infrastructure automation and monitoring basics
+
+What I Expect to Gain:
+I want to be able to set up a repository so that every push is built
+and checked automatically, work on a shared codebase without breaking
+anyone else's work, and package applications in containers so they
+run the same way everywhere.
+
+This Assignment:
+Each member of Group 15 works on a personal branch named
+STUDENTID-Name, commits their own files, and opens a Pull Request into
+main. The GitHub Actions workflow in .github/workflows/ci.yml runs on
+every push so the team can see that the repository stays healthy.
