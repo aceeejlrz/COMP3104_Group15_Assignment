@@ -1,0 +1,30 @@
+101496484 DevOps (Own Definition)
+
+COMP 3104 - DevOps
+==================
+
+My Definition of DevOps:
+DevOps is a way of working where the people who write software and the
+people who run it share one goal: shipping working changes to users
+quickly and safely. It mixes culture (shared ownership, fast feedback)
+with tooling (version control, automated pipelines, monitoring).
+
+What the Course Covers:
+- Git fundamentals: commits, branches, merges and resolving conflicts
+- Team workflows on GitHub: Pull Requests and code review
+- Continuous Integration and Continuous Delivery (CI/CD)
+- Writing GitHub Actions workflows
+- Containerization with Docker
+- Infrastructure automation and monitoring basics
+
+What I Expect to Gain:
+I want to be able to set up a repository so that every push is built
+and checked automatically, work on a shared codebase without breaking
+anyone else's work, and package applications in containers so they
+run the same way everywhere.
+
+This Assignment:
+Each member of Group 15 works on a personal branch named
+STUDENTID-Name, commits their own files, and opens a Pull Request into
+main. The GitHub Actions workflow in .github/workflows/ci.yml runs on
+every push so the team can see that the repository stays healthy.
