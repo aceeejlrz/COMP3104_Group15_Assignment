@@ -11,3 +11,12 @@ Software development lifecycles (SDLC) is the process teams follow to produce so
 4. Testing: find and fix defects
 5. Deployment: release the software to users
 6. Maintenance: monitor, fix and update it over time
+
+[Importance of DevOps to SDLC:]
+Traditionally, development and operations teams worked separately,
+which caused miscommunication, slow releases and workflow,
+and missed errors and bugs found in later stages.
+
+DevOps matter because it fixes these problems by making the SDLC
+collaborative, automated, and continuous which results in faster
+delivery, higher quality, and more reliable software
