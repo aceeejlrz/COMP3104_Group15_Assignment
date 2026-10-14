@@ -8,3 +8,11 @@ DevOps is a way of working where the people who write software and the
 people who run it share one goal: shipping working changes to users
 quickly and safely. It mixes culture (shared ownership, fast feedback)
 with tooling (version control, automated pipelines, monitoring).
+
+What the Course Covers:
+- Git fundamentals: commits, branches, merges and resolving conflicts
+- Team workflows on GitHub: Pull Requests and code review
+- Continuous Integration and Continuous Delivery (CI/CD)
+- Writing GitHub Actions workflows
+- Containerization with Docker
+- Infrastructure automation and monitoring basics
