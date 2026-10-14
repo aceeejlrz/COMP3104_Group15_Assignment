@@ -5,3 +5,11 @@ Comp3104 - DevOps
 COMP 3104 DevOps introduces the practices and tools connecting software development with IT operations, hence
 the name "DevOps" or Development Operations. The focus of this course is to build, test and release software 
 faster and more reliably through collaboration and automation.
+
+[Program Covers:]
+- Version Control: Git and GitHub, including cloning, branching, committing and pushing.
+- Branching Strategies: a per-developer branch model that protects the main branch
+- Collaboration Workflows: pull requests, peer review, PR templates and keeping local branches synced with main.
+- Merge Conflics: how to spot them and resolve them.
+- CI/CD: continuous integration and deployment using GitHub Actions or Travis CI, including .yml workflow files.
+- Monitoring: checking the health of a deployment and keeping it running as intended.
