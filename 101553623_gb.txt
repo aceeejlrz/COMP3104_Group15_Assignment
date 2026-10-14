@@ -22,3 +22,9 @@ health sciences, hospitality and culinary arts, construction and engineering tec
 The school mainly focuses on hands-on, and career-oriented education with many programs including co-op placements,
 labs, and industry partnerships. This guarantee that graduated students have the practical skills for what
 they strived to be.
+
+[My Program:]
+Computer Programming and Analysis (T197) as the name implies, covers overall programming and IT analysis. 
+We learn to code in multiple languages, cover web and mobile development, databases, Development operations,
+and project management. It's a very hands-on and colaborative course with coding tests, and multiple individual
+and group projects.
