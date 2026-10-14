@@ -7,3 +7,21 @@ The SDLC in Short:
 Software moves through planning, design, development, testing,
 deployment and maintenance. Without DevOps, each stage is often owned
 by a different team and work is handed over in large batches.
+
+How DevOps Changes Each Stage:
+
+1. Plan - Small, frequent releases mean plans can be adjusted based on
+   real user feedback instead of guesses.
+
+2. Develop - Short-lived branches and Pull Requests keep changes small
+   and easy to review.
+
+3. Test - Automated tests run in the CI pipeline on every push, so a
+   bug is caught minutes after it is written, not weeks later.
+
+4. Deploy - CD pipelines and containers make releases repeatable. A
+   deployment becomes a routine step instead of a risky event.
+
+5. Operate and Monitor - Logs, metrics and alerts show how the software
+   behaves in production, and that information flows back into the
+   next planning cycle.
