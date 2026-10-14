@@ -20,3 +20,9 @@ I am in the Computer Programming and Analysis program (T197) in the
 School of Computer Technology. The program covers software design,
 web and mobile development, databases, cloud and DevOps practices,
 and ends with a team capstone project.
+
+Why George Brown:
+I wanted a program that puts real projects in front of me early. The
+courses are built around labs, group work and tools that companies
+actually use, which lets me apply what I learn to my own software
+projects right away.
