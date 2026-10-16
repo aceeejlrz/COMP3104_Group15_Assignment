@@ -1,0 +1,7 @@
+101577027 Importance of DevOps in the SDLC
+==========================================
+
+What is the SDLC?
+The Software Development Life Cycle is the process teams follow
+to turn an idea into working software. Its main stages are
+planning, design, development, testing, deployment and maintenance.
