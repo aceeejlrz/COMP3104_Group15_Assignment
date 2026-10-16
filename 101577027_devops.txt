@@ -1,0 +1,10 @@
+101577027 DevOps
+
+COMP 3104 - DevOps
+==================
+
+What DevOps Means to Me:
+DevOps is about removing the wall between building software and
+running it. Instead of developers handing code off and hoping it
+works, the whole team owns the software from the first commit to
+production, and automation handles the repetitive parts.
