@@ -13,3 +13,10 @@ How DevOps Supports Each Stage:
 - Testing: CI runs checks automatically on every push
 - Deployment: CD releases code the same way every time
 - Maintenance: monitoring catches problems early so they get fixed fastt
+
+Conclusion:
+Without DevOps, the SDLC can feel like a relay race where each
+team waits on the last. With DevOps it becomes a loop: code is
+built, tested and released continuously, and feedback from users
+goes straight back into planning. The result is faster releases
+and more reliable software.
