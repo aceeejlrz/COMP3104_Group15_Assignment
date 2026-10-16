@@ -8,3 +8,17 @@ DevOps is about removing the wall between building software and
 running it. Instead of developers handing code off and hoping it
 works, the whole team owns the software from the first commit to
 production, and automation handles the repetitive parts.
+
+
+Course Topics:
+- Version control with Git and collaboration on GitHub
+- Branching strategies and Pull Requests
+- CI/CD pipelines using GitHub Actions
+- Docker containers
+- Deploying and monitoring applications
+
+Why It Matters to Me:
+As an online student, most of my group work happens remotely.
+Knowing how to use Git, branches and pipelines properly is what
+lets a team that never meets in person still work on the same
+code without breaking each other's changes.
